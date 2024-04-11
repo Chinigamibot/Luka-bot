@@ -1,0 +1,72 @@
+[
+{
+    "domain": ".chromewebstore.google.com",
+    "expirationDate": 1747361298.441979,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "GA1.1.527152597.1712800644",
+    "id": 1
+},
+{
+    "domain": ".chromewebstore.google.com",
+    "expirationDate": 1747361300.704892,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "_ga_KHZNC1Q6K0",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "GS1.1.1712800644.1.1.1712801300.0.0.0",
+    "id": 2
+},
+{
+    "domain": ".google.com",
+    "expirationDate": 1728352457.700868,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "AEC",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "AQTF6Hw5UTxMA7XMsEL1vU6owXI5IpCDj-YftOr5d1AyjogUKwaImZjvPI0",
+    "id": 3
+},
+{
+    "domain": ".google.com",
+    "expirationDate": 1728611662.503767,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "NID",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "513=GISl_FuAohkPIxuWph0FYQDf7vBxSel5rMGrr9v6z-xT391SGUMVMobtvO2X7BNm1a_Jm9DYhMiSt7mr56XV4aTAN57YPcw-WSsl4aO7MkGQMa6Gsid1qJHIf10tUPvXFnDkkAQaXqpSxtKzl3iUtuEI07U5DWXBEps88j6IV_u_zwEoLUI",
+    "id": 4
+},
+{
+    "domain": "chromewebstore.google.com",
+    "expirationDate": 1715392758,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "OTZ",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "7508279_52_52__52_",
+    "id": 5
+}
+]
